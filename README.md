@@ -3,7 +3,7 @@
 Cobuild SharePoint pages and web parts with AI. Web Part Genie is an experimental SharePoint web part that leverages generative AI to create JSX-based web parts from simple text prompts. This enables rapid prototyping, wireframing, and potentially hyper-personalized intranet experiences—all without requiring coding expertise.  
 
 ## How It Works
-1. Download the SharePoint package
+1. Download the SharePoint package [**[Start download**]](https://github.com/HenryAmm/WebPartGenie/raw/refs/heads/main/web-part-genie-by-adenin.sppkg)
 
 2. Open SharePoint admin centre, go to More features → Apps and then drag-and-drop the `sppkg` file into your Apps list. Enable the app and it to all pages during the installation.
      
