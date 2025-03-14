@@ -8,7 +8,7 @@ Cobuild SharePoint pages and web parts with AI. Web Part Genie is an experimenta
 > 
 > <img height="15" alt="image" src="https://github.com/user-attachments/assets/b2cdaae2-3dfd-430a-bc71-9094aee19a16" />
 
-## How It Works
+## Installation steps
 1. Download the SharePoint package [**[Start download**]](https://github.com/HenryAmm/WebPartGenie/raw/refs/heads/main/web-part-genie-by-adenin.sppkg)
 
 2. Open SharePoint admin centre, go to More features → Apps and then drag-and-drop the `sppkg` file into your Apps list. Enable the app and it to all pages during the installation.
